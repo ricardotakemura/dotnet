@@ -1,0 +1,10 @@
+C:/Users/felipe.matheus/Desktop/Avaliacao_Prog_Pratica/AnalProg/Helpers/bin/Debug/Helpers.dll
+C:/Users/felipe.matheus/Desktop/Avaliacao_Prog_Pratica/AnalProg/Helpers/bin/Debug/Helpers.pdb
+C:/Users/felipe.matheus/Desktop/Avaliacao_Prog_Pratica/AnalProg/Helpers/obj/Debug/Helpers.csproj.CoreCompileInputs.cache
+C:/Users/felipe.matheus/Desktop/Avaliacao_Prog_Pratica/AnalProg/Helpers/obj/Debug/Helpers.dll
+C:/Users/felipe.matheus/Desktop/Avaliacao_Prog_Pratica/AnalProg/Helpers/obj/Debug/Helpers.pdb
+/Users/ricardotakemura/Documents/projects/dotnet/Avaliacao_Prog_Pratica/AnalProg/Helpers/bin/Debug/Helpers.dll
+/Users/ricardotakemura/Documents/projects/dotnet/Avaliacao_Prog_Pratica/AnalProg/Helpers/bin/Debug/Helpers.pdb
+/Users/ricardotakemura/Documents/projects/dotnet/Avaliacao_Prog_Pratica/AnalProg/Helpers/obj/Debug/Helpers.csproj.CoreCompileInputs.cache
+/Users/ricardotakemura/Documents/projects/dotnet/Avaliacao_Prog_Pratica/AnalProg/Helpers/obj/Debug/Helpers.dll
+/Users/ricardotakemura/Documents/projects/dotnet/Avaliacao_Prog_Pratica/AnalProg/Helpers/obj/Debug/Helpers.pdb
